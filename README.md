@@ -1,7 +1,7 @@
 <h2><strong>Language Dictionary</strong><h2>
 
 <br>
-<li>Redis Hash data type design is an English-Turkish dictionary demo.</li>
+<li>With Redis Hash data type design is an English-Turkish dictionary demo.</li>
   <br>
 <li>A simple English-Turkish dictionary demo made with Redis(Distributed Cache) structure and .Net Core technology</li>
   <br>
