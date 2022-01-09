@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "GetWord";
+}
+
+<h1>GetWord</h1>
+
+<form method="post" asp-action="GetWord" enctype="application/x-www-form-urlencoded">
+    <input type="text" name="key" placeholder="Enter Word" />
+    <button type="submit">Translate</button>
+</form>
+
+<h2>
+    @ViewBag.word
+</h2>
