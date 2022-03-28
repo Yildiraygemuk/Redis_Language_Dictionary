@@ -1,5 +1,5 @@
 <h2><strong>Language Dictionary</strong><h2>
-
+ 
 <br>
 <li>A simple English-Turkish dictionary demo created with Redis(Distributed Cache) structure and .Net Core Technology</li>
        <br>
